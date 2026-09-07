@@ -1,4 +1,4 @@
-# Open Jarvis v1.0.0-beta
+# Open  Jarvis v1.0.0-beta
 
 > Control your Android device with natural language.
 > Give Jarvis a prompt — it handles everything.
